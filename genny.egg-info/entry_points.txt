@@ -1,0 +1,3 @@
+[console_scripts]
+genny = genny.__init__:main
+
